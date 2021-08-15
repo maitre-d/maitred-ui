@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../src/main.css"],
+  "sourcesContent": ["body, html {\n    height: 100%;\n}"],
+  "mappings": ";AAAA;AAAA;AACI;AAAA;",
+  "names": []
+}

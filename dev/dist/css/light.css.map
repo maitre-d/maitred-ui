@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../src/themes/light.css"],
+  "sourcesContent": [":root {\n    --text: #d4e09b;\n    --primary: #f6f4d2;\n    --secondary: #cbdfbd;\n    --accent: #f19c79;\n    --error: #a44a3f;\n\n    --bg: #f3f6f7;\n}"],
+  "mappings": ";AAAA;AACI;AACA;AACA;AACA;AACA;AAEA;AAAA;",
+  "names": []
+}

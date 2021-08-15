@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../src/themes/dark.css"],
+  "sourcesContent": [":root {\n    --primary: #191b28;\n    --secondary: #0c0310;\n    --accent: #263240;\n}"],
+  "mappings": ";AAAA;AACI;AACA;AACA;AAAA;",
+  "names": []
+}
